@@ -2,7 +2,7 @@
 Essa é a nova edição do exemplo02.
 
 
+Esta é a edição da linha 5.
 
 
-
-Esta é a edição da linha 8
+Esta é a edição da linha 8.
