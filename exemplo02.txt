@@ -1,2 +1,5 @@
 "arquivo constru¡do no diret¢rio pai clonegit, com altera‡äes na m quina02."
 Essa é a nova edição do exemplo02.
+
+
+Esta é a edição da linha 5.
