@@ -1,1 +1,1 @@
-"testando git - novo arquivo" 
+"testando git - novo arquivo". Nova edição.
